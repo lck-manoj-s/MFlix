@@ -1,7 +1,7 @@
 # Real-time Movies Website
 
 # Overview
-MFlix(Movies Flix) is an real-time movie website that is developed using React JS with Vite and it is styled using Tailwind CSS.The website gets data from the real-world API to populate the website with current movie details.
+MFlix(Movies Flix) is an real-time movie website that is developed using React JS with Vite and styled using Tailwind CSS.The website gets data from the real-world API to populate the website with current movie details.
 
 # Navigation menus
 The website contains 4 major navigation menus which are:
