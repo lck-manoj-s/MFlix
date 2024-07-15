@@ -1,8 +1,14 @@
-# React + Vite
+# Real-time Movies Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Overview
+MFlix(Movies Flix) is an real-time movie website that is developed using React JS with Vite and it is styled using Tailwind CSS.The website gets data from the real-world API to populate the website with current movie details.
 
-Currently, two official plugins are available:
+# Navigation menus
+The website contains 4 major navigation menus which are:
+1. Home -> Contains the home page our the website.
+2. Trending -> List all the trending movies in the current time.
+3. Top -> Shows the top rated movies.
+4. Watchlist -> Create watchlist to manage your movies for later watches.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# API Used
+TMDB API is used to get the real-time movie data that populates the movies of MFlix
