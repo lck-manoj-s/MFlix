@@ -1,4 +1,4 @@
-# DressUp
+# MFlix
 
 ## Table of Contents
 - [Overview](#overview)
