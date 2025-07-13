@@ -38,6 +38,8 @@ The core features include:
 
 - **Dynamic Data**: Real-time fetching from TMDB API for trending, top-rated, and personalized watchlists.
 
+- **Dual filtering**: Filter movies in the watchlist by genres and search based. Can also sort by the ratings.
+
 - **Developer Focus**: Configurable, maintainable codebase designed for rapid iteration and deployment.
   
 ## Project Structure
